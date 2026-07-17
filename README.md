@@ -2,96 +2,139 @@
 
 # 👋 Hi, I'm Ajmal
 
-### 🚀 Future Software Developer | AI Learner | Cloud Explorer | Cybersecurity Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Future+Software+Developer;Python+Developer;Cloud+%7C+DevOps+Learner;Cybersecurity+Enthusiast;Open+Source+Explorer;Always+Learning+Something+New..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Always+Learning+New+Things...;Building+Awesome+Projects...;Python+%7C+Cloud+%7C+AI+%7C+Cybersecurity" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ffff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🌱 Learning **Python, Web Development, Cloud & DevOps**
-- 🤖 Exploring **Artificial Intelligence**
-- 🔐 Interested in **Cybersecurity**
-- 💡 Building projects to improve my skills
-- 🎯 Goal: Become a Professional Software Developer
+```yaml
+Name: Ajmal
+
+Role:
+  - Student
+  - Future Software Developer
+
+Currently Learning:
+  - Python
+  - Git & GitHub
+  - HTML
+  - CSS
+  - JavaScript
+  - Docker
+  - Kubernetes
+  - Google Cloud
+  - DevOps
+
+Interests:
+  - Artificial Intelligence
+  - Cybersecurity
+  - Cloud Computing
+  - Full Stack Development
+  - Open Source
+
+Mission:
+  Learn → Build → Improve → Repeat 🚀
+```
 
 ---
 
-## 💻 Tech Stack
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux,docker,gcp" />
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📈 Learning Progress
+# 💻 Tech Stack
 
-| Skill | Progress |
-|-------|----------|
-| 🐍 Python | ████████░░ 80% |
-| 🌐 HTML | █████████░ 90% |
-| 🎨 CSS | ███████░░░ 70% |
-| ⚡ JavaScript | ██████░░░░ 60% |
-| 🐙 Git & GitHub | ████████░░ 80% |
-| ☁️ Cloud | █████░░░░░ 50% |
-| 🐳 Docker | ████░░░░░░ 40% |
+## 👨‍💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,java,c,cpp,go,rust,bash"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Frameworks & Libraries
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,express,bootstrap,tailwind"/>
 
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4)
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🗄️ Databases
 
-> Replace `YOUR_USERNAME` below with your GitHub username.
+<p align="center">
 
-```text
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres"/>
 
----
-
-👀 Profile Views
-
-https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge
+</p>
 
 ---
 
-🎯 2026 Goals
+## ☁️ Cloud & DevOps
 
-- 🚀 Build Amazing Projects
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,githubactions,linux"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build real-world projects
 - 💻 Master Python
-- 🌐 Learn Full Stack Development
-- ☁️ Master Cloud Computing
-- 🐳 Learn Docker & Kubernetes
+- 🌐 Become a Full Stack Developer
+- ☁️ Learn Cloud & DevOps
+- 🔐 Explore Cybersecurity
 - 🤝 Contribute to Open Source
+- 📚 Learn something new every day
 
 ---
 
-💬 Favorite Quote
+<div align="center">
 
-«"Code. Learn. Build. Repeat."»
-
----
-
-<div align="center">⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
+## ✨ "Code • Learn • Build • Repeat"
 
 </div>
