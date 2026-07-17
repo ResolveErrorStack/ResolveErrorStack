@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ajmal
+# 🔥 HEY, IM MOHAMMED AJMAL 🔥
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Future+Software+Developer;Python+Developer;Cloud+%7C+DevOps+Learner;Cybersecurity+Enthusiast;Open+Source+Explorer;Always+Learning+Something+New..." />
 
@@ -19,9 +19,9 @@ Name: Ajmal
 
 Role:
   - Student
-  - Future Software Developer
+  - dream Software Developer&built like google&Microsoft aslo own company ❤️
 
-Currently Learning:
+Currently My skill:
   - Python
   - Git & GitHub
   - HTML
@@ -38,6 +38,7 @@ Interests:
   - Cloud Computing
   - Full Stack Development
   - Open Source
+
 
 Mission:
   Learn → Build → Improve → Repeat 🚀
@@ -232,13 +233,13 @@ Mission:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ResolveErrorStack&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ResolveErrorStack&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ResolveErrorStack&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ResolveErrorStack&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
