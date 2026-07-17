@@ -623,6 +623,14 @@ while(alive){
 </div>
 
 ---
+###Contact Me
+```
+Contact any freelance work:
+Telegram : t.me/funnytamilan
+
+Contact any business related :
+ajmalitsme@gmail.com
+```
 
 # 🙌 Thank You
 
